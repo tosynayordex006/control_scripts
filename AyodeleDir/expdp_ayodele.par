@@ -1,0 +1,5 @@
+userid='/ as sysdba'
+schemas=CLOUDDB_TEMP
+dumpfile=expdp_CLOUDDB_TEMP.dmp
+logfile=expdp_CLOUDDB_TEMP.log
+directory=DATA_EXPORT_IMPORT
